@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4abc63b1a759eb748948a98f539a36d2
+timeCreated: 1520982089
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Avara
+  fontNames:
+  - Avara
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01122e89cc3a6b14c8631ead3f42409a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
